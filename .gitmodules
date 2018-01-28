@@ -1,0 +1,4 @@
+[submodule "odooec"]
+	path = odooec
+	url = git@github.com:cerealesandinos/odooec.git
+	branch = 10.0
