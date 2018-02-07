@@ -2,3 +2,8 @@
 	path = odooec
 	url = git@github.com:cerealesandinos/odooec.git
 	branch = 10.0
+
+[submodule "theme-ca"]
+	path = theme-ca
+	url = git@github.com:cerealesandinos/theme-ca.git
+	branch = 10.0
