@@ -6,4 +6,4 @@
 [submodule "theme-ca"]
 	path = theme-ca
 	url = git@github.com:cerealesandinos/theme-ca.git
-	branch = 10.0
+	branch = master
