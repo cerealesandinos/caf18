@@ -12,3 +12,8 @@
 	path = muk-it/muk_web
 	url = git@github.com:muk-it/muk_web.git
 	branch = 10.0
+
+[submodule "OCA/website"]
+	path = OCA/website
+	url = git@github.com:OCA/website.git
+	branch = 10.0
