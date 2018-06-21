@@ -17,10 +17,7 @@
 	path = OCA/website
 	url = git@github.com:OCA/website.git
 	branch = 10.0
-[submodule "cerealesandinos/multiweb"]
-	path = cerealesandinos/multiweb
-	url = git@github.com:cerealesandinos/multiweb.git
-	branch = multiw
+
 [submodule "multiweb"]
 	path = multiweb
 	url = git@github.com:cerealesandinos/multiweb.git
